@@ -1,5 +1,9 @@
 .slidein{
+<<<<<<< HEAD
 	animation-duration: 1s;
+=======
+	animation-duration: 5s;
+>>>>>>> origin/make_slidein_retriable
 	animation-name: slidein;
 }
 
